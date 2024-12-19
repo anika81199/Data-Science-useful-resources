@@ -9,4 +9,5 @@
 - Data Structures and Algorithms (Python) by Greg Hogg
   https://youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R&si=KXm4Erl2ZXCToxXW
 - Data Structures and Algorithms (C++) by Striver
+  https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=T-feg7Squed1cvlh
   
